@@ -4,17 +4,50 @@
  */
 package designprojectone;
 import java.util.*;
-/**
- *
- * @author michael.roy-diclemen
- */
+/***************************************************
+*
+*  Program:
+*  Author:
+*  Date: 
+*  Description:
+****************************************************/
+
+/**************** IPO CHART ************************
+*INPUT:
+*
+*
+*PROCESSING:
+*
+*
+*
+*OUTPUT:
+*
+*
+***************************************************/
+  
+/**************** TEST CASES ************************
+*Test      Input      Desired Ouput
+*
+*
+*
+*
+*
+*
+*
+***************************************************/
 public class DesignProjectOne {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+   //Write Pseudocode FIRST as comments and THEN write the code
+    
+  //CONSTANTS
+
+  //VARIABLES
+
+  //CODE
     }
     
 }
